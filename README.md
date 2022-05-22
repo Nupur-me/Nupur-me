@@ -1,9 +1,9 @@
-### Hi there I'm NUPUR👋
+### 👋Hi there I'm NUPUR👋
 
 # 💫About Me :
-👩‍💻A Fourth-year student pursuing B-tech in CSE. 
-💻 Enthusiastic on the path of web development.
-⭐I am actively looking for exciting opportunities in the software field that would help me to 
+###👩‍💻A Fourth-year student pursuing B-tech in CSE. 
+###💻 Enthusiastic on the path of web development.
+###⭐I am actively looking for exciting opportunities in the software field that would help me to 
 learn new technologies and to improve my skills as a developer, and contributor to the organization.
  
 
