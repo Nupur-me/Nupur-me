@@ -3,7 +3,7 @@
 # 💫About Me :
 
 - 👩‍💻A Fourth-year student pursuing B-tech in CSE.  
-- 💻 Enthusiastic on the path of web development.
+- 💻 Enthusiastic on the path of Front-End development and Python.
 - ⭐I am actively looking for exciting opportunities in the software field that would help me to learn new technologies and to improve my skills as a developer, and contributor to the organization.
  
  
