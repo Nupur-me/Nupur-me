@@ -3,7 +3,7 @@
 # 💫About Me :
 
 - 👩‍💻 Enthusiastic Software Engineer.  
-- 💻 Passionate about the journey of front-end web development and excited to dive deeper into Python programming.
+- 💻 Passionate about the journey of Delopment and excited to dive deeper into Programming.
 - ⭐I am actively looking for exciting opportunities in the software field that would help me to learn new technologies and to improve my skills as a developer, and contributor to the organization.
  
  
