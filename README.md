@@ -1,3 +1,6 @@
+
+![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/6ed478bb-2417-47ae-95dc-0eed81643b99)
+
 ### 👋Hi there I'm NUPUR👋
 
 # 💫About Me :
@@ -12,11 +15,7 @@
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![SpringBoot](https://img.shields.io/badge/springboot-green?style=plastic&logo=springboot) ![Android](https://img.shields.io/badge/Android%20Development%20-%20green?style=plastic) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Nupur-me&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nupur-me&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nupur-me&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
 
 
 ## 🌐Socials
