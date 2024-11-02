@@ -1,7 +1,7 @@
 
 ![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/6ed478bb-2417-47ae-95dc-0eed81643b99)
 
-                                                                                     ### 👋Hi there I'm NUPUR👋
+## 👋Hi there I'm NUPUR👋
 
 # 💫About Me :
 
