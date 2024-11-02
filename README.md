@@ -2,7 +2,7 @@
 
 # 💫About Me :
 
-- 👩‍💻 Enthusiastic ASE at IBM.  
+- 👩‍💻 Application Developer at IBM.  
 - 💻 Passionate about the journey of Delopment and excited to dive deeper into Programming.
 - ⭐I am actively looking for exciting opportunities in the software field that would help me to learn new technologies and to improve my skills as a developer, and contributor to the organization.
  
